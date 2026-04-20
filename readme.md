@@ -1,6 +1,5 @@
 # 🚗 基于 YOLOv11 的行人与车辆检测
 
-<div align="center">
 
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-Ultralytics-purple)
 ![COCO](https://img.shields.io/badge/数据集-COCO2017-orange)
