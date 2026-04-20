@@ -18,7 +18,7 @@
 ## 🖼️ 效果展示
 
 <!-- 放一张检测结果的截图，直观展示很重要 -->
-![demo](test/result.jpg)
+![demo](test_img/result.jpg)
 
 ---
 
