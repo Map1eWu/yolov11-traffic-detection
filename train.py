@@ -1,5 +1,3 @@
-# F:\python_envs\base_\Scripts\activate.bat
-
 import os
 from ultralytics import YOLO
 import argparse
