@@ -100,7 +100,7 @@ python train.py --data_config coco.yaml --epochs 50 --imgsz 512 --batch 8
 | 基础模型 | YOLOv11s |
 | 训练轮数 | 50 epochs |
 | 图像尺寸 | 512×512 |
-| 训练设备 | NVIDIA GPU (CUDA) |
+| 训练设备 | NVIDIA GeForce RTX 4060 |
 | 数据集 | COCO 2017 |
 
 ---
