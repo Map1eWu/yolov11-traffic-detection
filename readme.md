@@ -106,6 +106,6 @@ python train.py --data_config coco.yaml --epochs 50 --imgsz 512 --batch 8
 ---
 
 ## 📄 License
-
-MIT License
+本项目基于 [AGPL-3.0 License](LICENSE) 开源。  
+上游依赖 [Ultralytics YOLOv11](https://github.com/ultralytics/ultralytics) 同样采用 AGPL-3.0 协议。
 
