@@ -7,8 +7,8 @@ def argument_parser():
     parser = argparse.ArgumentParser()
 
     # Dir
-    parser.add_argument("--weights_dir",    type=str,   default="github/weights/best.pt")
-    parser.add_argument("--source",         type=str,   default="E:\\1\\test.mp4")
+    parser.add_argument("--weights_dir",    type=str,   default="weights/best.pt")
+    parser.add_argument("--source",         type=str,   default="test_img/test.jpg")
 
     # Training
     parser.add_argument("--conf",           type=float, default=0.25)
